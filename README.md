@@ -10,3 +10,10 @@ Executar **"docker-compose up -d"**
 Não foram atentadas as melhores práticas, pois não trabalho com **Nginx** e nem com **Node.js**
 
 Pesquisei muitas coisas no Google para ajudar nas dificudades que tive.
+
+
+## Desafio Assinatura de commit
+Esse trecho foi adicionado e o commit foi assinado com minha chave.
+
+No Mac, eu instalei a ferramenta GPG Suite, com interface visual.
+
