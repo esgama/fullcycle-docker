@@ -17,3 +17,4 @@ Esse trecho foi adicionado e o commit foi assinado com minha chave.
 
 No Mac, eu instalei a ferramenta GPG Suite, com interface visual.
 
+ERRATA: Faltou configurar os dados de usuário no Git.local
